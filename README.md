@@ -5,8 +5,8 @@ Projeto da disciplina de MLOps da UFRN que tem como objetivo principal colocar e
 ## Requisitos
 
 Verifique se você atende a todos os requisitos a seguir:
-* Ter o `Python 3.9` instalado e rodando.
 * Ter uma máquina com ` Windows | Linux | Mac `.
+* Ter o [`Python 3.9`](https://www.python.org/downloads/) instalado na sua máquina.
 * Ter o pylint instalado:
 ```
 pip install pylint
@@ -18,12 +18,12 @@ Para começar a usar este projeto, basta clonar o repositório:
 
 Opção HTTP:
 ```
-git clone https://github.com/matheusriv/project-best-practices-python.git
+git clone https://github.com/matheusriv/mlops_car_prices_U1T3.git
 ```
 
 Opção SSH:
 ```
-git clone git@github.com:matheusriv/project-best-practices-python.git
+git clone git@github.com:matheusriv/mlops_car_prices_U1T3.git
 ```
 
 ## 💻 Etapas do Projeto
